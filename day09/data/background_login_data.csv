@@ -1,0 +1,9 @@
+"",msjy123,管理员帐号不能为空
+admin,"",管理员密码不能为空
+admin,msjy123,管理员密码错误
+admin1,msjy123,管理员帐号错误
+admin,msjy1234,管理员密码错误
+test,msjy123,管理员帐号错误
+test,msjy123,管理员帐号错误1
+test,msjy123,管理员帐号错误23
+test,msjy123,管理员帐号错误3
